@@ -1,2 +1,2 @@
 # hello-world
-A trial repository
+A trial repository: checking commit procedure
